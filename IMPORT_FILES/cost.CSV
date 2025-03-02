@@ -1,0 +1,8 @@
+1;Transport;Bilety lotnicze;5000,00;0;NULL;NULL;NULL;NULL;NULL
+2;Parking;Parking Błękitny;200,00;0;NULL;NULL;NULL;NULL;NULL
+3;Noclegi;Hotel Madryt;1000,00;0;NULL;NULL;NULL;NULL;NULL
+4;Noclegi;Hotel Lizbona;1000,00;0;NULL;NULL;NULL;NULL;NULL
+5;Noclegi;Hotel Porto;1000,00;0;NULL;NULL;NULL;NULL;NULL
+6;Noclegi;Hotel Południe Hiszpani;1000;0;NULL;NULL;NULL;NULL;NULL
+6;Transport;Bilety Lotniczne Madryt  Lizbona;100,00;0;NULL;NULL;NULL;NULL
+7;Transport;Bilety Lotniczne Południe Hiszpani  Madryt;100,00;0;NULL;NULL;NULL;NULL;NULL
